@@ -1,0 +1,18 @@
+body
+{
+    background-image:url(../img/photo-1553095066-5014bc7b7f2d.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.container-fluid
+{
+    margin-top: 200px;
+}
+span 
+{
+    color: #e9cbcb;
+}
+p
+{
+    color: #bbb9b8;
+}
